@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blackGray">#171719</color>
+    <color name="toolBarColor">#FCC760</color>
+    <color name="buttonColor">#FF7262</color>
+    <color name="searchBarColor">#1F1F24</color>
+    <color name="searchBarTextColor">#626266</color>
+    <color name="cardBackGroundColor">#252430</color>
+</resources>
