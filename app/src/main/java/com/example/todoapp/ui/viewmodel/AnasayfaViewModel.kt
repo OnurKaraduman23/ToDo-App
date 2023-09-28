@@ -27,6 +27,7 @@ class AnasayfaViewModel @Inject constructor(var tRepo : ToDoRepository) : ViewMo
     fun sil(id:Int){
         CoroutineScope(Dispatchers.Main).launch {
             tRepo.sil(id)
+            toDoYukle()
         }
     }
 }

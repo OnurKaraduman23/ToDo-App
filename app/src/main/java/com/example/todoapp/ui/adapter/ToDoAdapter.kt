@@ -42,7 +42,7 @@ class ToDoAdapter(var mContext:Context, var toDoList:List<ToDo>,var viewModel: A
                 .setActionTextColor(Color.BLUE)
                 .setAction("EVET"){
                     viewModel.sil(toDo.id)
-                    viewModel.toDoYukle()
+
                 }
                 .show()
         }
