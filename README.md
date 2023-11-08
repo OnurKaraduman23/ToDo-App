@@ -3,7 +3,7 @@
 Discover ToDoPro! This user-friendly ToDo app is built on the MVVM architecture. Combining functionality and aesthetics, ToDoPro offers the smartest way to organize your daily tasks. :calling:
 
 
-<img  align="right" width="315" src="https://github.com/Honor13/ToDo-App/assets/53227891/4b007099-8faa-4642-b1f5-c251fe6f62a7" alt="Main Page" style="height:600px">
+<img  align="right" width="315" src="https://github.com/Honor13/ToDo-App/assets/53227891/4b007099-8faa-4642-b1f5-c251fe6f62a7" alt="Main Page" style="height:600px weight:200px">
 
 
 ## Features
